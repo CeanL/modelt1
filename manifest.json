@@ -231,27 +231,27 @@
                 },
                 {
                     "key":"website.electronics.http",
-                    "value":"http://electronics.cs1vqt9-1808mnk1-p1-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                    "value":"http://electronics.accstorefront.cmja9gw7m-psdevapjd1-d1-public.model-t.cc.commerce.ondemand.com"
                 },
                 {
                     "key":"website.electronics.https",
-                    "value":"https://electronics.cs1vqt9-1808mnk1-p1-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                    "value":"https://electronics.accstorefront.cmja9gw7m-psdevapjd1-d1-public.model-t.cc.commerce.ondemand.com"
                 },
                 {
                     "key":"website.apparel-uk.http",
-                    "value":"http://apparel-uk.cs1vqt9-1808mnk1-p1-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                    "value":"http://apparel-uk.accstorefront.cmja9gw7m-psdevapjd1-d1-public.model-t.cc.commerce.ondemand.com"
                 },
                 {
                     "key":"website.apparel-uk.https",
-                    "value":"https://apparel-uk.cs1vqt9-1808mnk1-p1-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                    "value":"https://apparel-uk.accstorefront.cmja9gw7m-psdevapjd1-d1-public.model-t.cc.commerce.ondemand.com" 
                 },
                 {
                     "key":"website.apparel-de.http",
-                    "value":"http://apparel-de.cs1vqt9-1808mnk1-p1-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                    "value":"http://apparel-de.accstorefront.cmja9gw7m-psdevapjd1-d1-public.model-t.cc.commerce.ondemand.com" 
                 },
                 {
                     "key":"website.apparel-de.https",
-                    "value":"https://apparel-de.cs1vqt9-1808mnk1-p1-public.model-t.myhybris.cloud" (this value should be set to your domainname)
+                    "value":"https://apparel-de.accstorefront.cmja9gw7m-psdevapjd1-d1-public.model-t.cc.commerce.ondemand.com"
                 },
                 {
                     "key":"xss.filter.header.X-Frame-Options",
